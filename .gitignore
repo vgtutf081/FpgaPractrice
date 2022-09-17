@@ -1,0 +1,9 @@
+*.dblite
+*.history
+*.asc
+*.bin
+*.json
+*.out
+
+
+
